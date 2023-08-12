@@ -1,0 +1,52 @@
+
+.contain{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-left: 500px;
+    margin-top: 120px;
+    border-radius: 10px;
+}
+.contain h2{
+    text-align: center;
+}
+.contain button{
+    margin-top: 35px;
+    margin-left: 120px;
+}
+.contain a{
+    text-decoration: none;
+    color: black;
+}
+.login label{
+    position: relative;
+    left: 50px;
+    bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.login input{
+    position: relative;
+    left: 50px;
+    padding: 10px;
+}
+.Pass label{
+    position: relative;
+    left: 50px;
+    top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.Pass input{
+    position: relative;
+    left: 50px;
+    top: 20px;
+    padding: 10px;
+}
+#notify{
+   position: relative;
+   top: 30px;
+   margin-left: 50px;
+   color: red;
+}

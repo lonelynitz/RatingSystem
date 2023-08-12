@@ -1,0 +1,46 @@
+.rating{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 300px;
+    height: 350px;
+    padding: 10px;
+    margin-left: 500px;
+    margin-top: 120px;
+    border-radius: 10px; 
+}
+.rating h2{
+    text-align: center;
+}
+.name label,.name-input{
+    position: relative;
+    left: 50px;
+    bottom:10px;
+    padding: 5px;
+}
+.Batch label,.batch-input{
+    position: relative;
+    left: 50px;
+    top: 5px;
+    padding: 5px;
+}
+.star label,.star-input{
+    position: relative;
+    left: 50px;
+    top: 15px;
+    padding: 5px;
+}
+.feeback label,.fb-input{
+    position: relative;
+    left: 50px;
+    top: 25px;
+    padding: 5px;
+}
+.btn button{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    padding: 5px;
+}
+.btn button:hover{
+    transform: scale(1.1);
+}
+
